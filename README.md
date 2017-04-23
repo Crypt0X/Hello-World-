@@ -1,2 +1,30 @@
 # Hello-World-
-First Git Repo
+
+Hey!
+
+This is my First Git Repo!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I like tacos.
